@@ -37,7 +37,7 @@
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
             "value": ""
         },
-        "AUTH_USERS": {
+        "DOWNLOAD_DIR": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
             "value": "",
             "required": false
