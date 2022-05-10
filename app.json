@@ -61,7 +61,7 @@
             "description": "Your OMBD API KEY, Fill if you want to generate a imdb poster of movie in autofilter.",
             "value": "",
             "required": false
-        },
+    },
     "addons": [],
     "buildpacks": [
         {
