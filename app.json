@@ -21,7 +21,7 @@
             "description": "Your bot token.",
             "value": ""
         },
-        "API_ID": {
+        "TELEGRAM_API": {
             "description": "Get this value from https://my.telegram.org",
             "value": ""
         },
