@@ -1,6 +1,6 @@
 {
-    "name": "Media Search bot",
-    "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
+    "name": "kannadi bot",
+    "description": "nothing to say about this bot",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -14,8 +14,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/subinps/Media-Search-bot",
-    "repository": "https://github.com/subinps/Media-Search-bot",
+    "website": "https://github.com/JoYaL-TG/Kannadibot",
+    "repository": "https://github.com/JoYaL-TG/Kannadibot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
